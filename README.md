@@ -1,5 +1,9 @@
 # Getting Started with Create React App
 
+
+I created the useful text-utlis app  that can be used to anipulate with out texts words and letters like removing extra spaces in long paragraphs inversing the text ,converting in to upper case lowercases etc and many more.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
